@@ -1,0 +1,74 @@
+#ifndef __vaf_keydef_h__
+#define __vaf_keydef_h__
+
+#define KEY_UP									VM_KEY_UP
+#define KEY_DOWN								VM_KEY_DOWN
+#define KEY_LEFT								VM_KEY_LEFT			
+#define KEY_RIGHT								VM_KEY_RIGHT		
+#define KEY_LSK									VM_KEY_LEFT_SOFTKEY	
+#define KEY_RSK									VM_KEY_RIGHT_SOFTKEY
+#define KEY_OK									VM_KEY_OK			
+#define KEY_CLEAR								VM_KEY_CLEAR		
+#define KEY_BACK								VM_KEY_BACK			
+#define KEY_0									VM_KEY_NUM0			
+#define KEY_1									VM_KEY_NUM1			
+#define KEY_2									VM_KEY_NUM2			
+#define KEY_3									VM_KEY_NUM3			
+#define KEY_4									VM_KEY_NUM4			
+#define KEY_5									VM_KEY_NUM5			
+#define KEY_6									VM_KEY_NUM6			
+#define KEY_7									VM_KEY_NUM7			
+#define KEY_8									VM_KEY_NUM8			
+#define KEY_9									VM_KEY_NUM9			
+#define KEY_VOLUP								VM_KEY_VOL_UP		
+#define KEY_VOLDOWN								VM_KEY_VOL_DOWN		
+#define KEY_POUND								VM_KEY_POUND		
+#define KEY_STAR								VM_KEY_STAR			
+
+#define KEY_A									VM_KEY_A
+#define	KEY_B									VM_KEY_B
+#define	KEY_C									VM_KEY_C
+#define	KEY_D									VM_KEY_D
+#define	KEY_E									VM_KEY_E
+#define	KEY_F									VM_KEY_F
+#define	KEY_G									VM_KEY_G
+#define	KEY_H									VM_KEY_H
+#define	KEY_I									VM_KEY_I
+#define	KEY_J									VM_KEY_J
+#define	KEY_K									VM_KEY_K
+#define	KEY_L									VM_KEY_L
+#define	KEY_M									VM_KEY_M
+#define	KEY_N									VM_KEY_N
+#define	KEY_O									VM_KEY_O
+#define	KEY_P									VM_KEY_P
+#define	KEY_Q									VM_KEY_Q
+#define	KEY_R									VM_KEY_R
+#define	KEY_S									VM_KEY_S
+#define	KEY_T									VM_KEY_T
+#define	KEY_U									VM_KEY_U
+#define	KEY_V									VM_KEY_V
+#define	KEY_W									VM_KEY_W
+#define	KEY_X									VM_KEY_X
+#define	KEY_Y									VM_KEY_Y
+#define	KEY_Z									VM_KEY_Z
+#define	KEY_SPACE								VM_KEY_SPACE
+#define	KEY_TAB									VM_KEY_TAB
+#define	KEY_DEL									VM_KEY_DEL
+#define	KEY_ALT									VM_KEY_ALT
+#define	KEY_CTRL								VM_KEY_CTRL
+#define	KEY_WIN									VM_KEY_WIN
+#define	KEY_SHIFT								VM_KEY_SHIFT
+#define	KEY_QUESTION							VM_KEY_QUESTION
+#define	KEY_PERIOD								VM_KEY_PERIOD
+#define	KEY_COMMA								VM_KEY_COMMA
+#define	KEY_EXCLAMATION							VM_KEY_EXCLAMATION
+#define	KEY_APOSTROPHE							VM_KEY_APOSTROPHE
+#define	KEY_AT									VM_KEY_AT
+#define	KEY_BACKSPACE							VM_KEY_BACKSPACE
+#define	KEY_QWERTY_ENTER						VM_KEY_QWERTY_ENTER
+#define	KEY_FN									VM_KEY_FN
+#define	KEY_SYMBOL								VM_KEY_SYMBOL
+#define	KEY_NUM_LOCK							VM_KEY_NUM_LOCK
+#define	KEY_QWERTY_MENU							VM_KEY_QWERTY_MENU
+
+#endif
